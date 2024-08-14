@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hii how are you sir 
+=======
+yash is good boy
+>>>>>>> b-1
